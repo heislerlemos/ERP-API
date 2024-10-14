@@ -1,7 +1,16 @@
 <!DOCTYPE html>
 <html>
 <body>
-<h1> Pagina inicial ERP </h1>
+<h1> API ERP </h1>
+
+
+
+<h1> Rh data /get </h1>
+<ul>
+{% for x in myerps %}
+    <li>{{x.nome}} {{x.genero}} {{x.provincias}} {{x.email}} {{x.nif}} {{x.data}} {{x.nacionalidade}} {{x.telefone}} </li>
+{% endfor %}
+</ul>
 
 </body>
 </html>
