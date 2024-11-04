@@ -16,7 +16,6 @@ Faça cd no root do projecto
 #############
 <br>
 cd /heislerapi/heislerapi   
-<br>
 #############
 <br>
 Execute o runserver
