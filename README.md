@@ -15,7 +15,7 @@ Faça cd no root do projecto
 <br>
 #############
 <br>
-cd /heislerapi/heislerapi        
+cd /heislerapi/heislerapi   
 <br>
 #############
 <br>
@@ -24,4 +24,4 @@ Execute o runserver
 ############
 <br>
 python3 manage.py  runserver  
-
+<br>
